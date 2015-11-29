@@ -59,7 +59,7 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 3 - CompanyInformation
 * Exerc. 4 - NumbersInColumns
 * Exerc. 5 - NumbersBetween
-* Exerc. 6 - ?
+* Exerc. 6 - PrintGreater
 * Exerc. 7 - ?
 * Exerc. 8 - ?
 * Exerc. 9 - ?
