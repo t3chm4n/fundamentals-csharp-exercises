@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+Chapter 3 - Exercise 15
+* Write a program that exchanges the values of the bits on positions 3, 4 and 5 with bits on positions 24, 25 and 26 of
+a given 32-bit unsigned integer.
+
+Chapter 3 - Exercise 16
+* Write a program that exchanges bits {p, p+1, …, p+k-1} with bits {q, q+1, …, q+k-1} of a given 32-bit unsigned 
+integer.
+*/
+using System;
 
 namespace ExchangeBitValues
 {
@@ -47,6 +56,7 @@ namespace ExchangeBitValues
                 number16 = (uint)(number16 & (~(1 << (i + 16))) | (bitI << (i + 16)));
                 number16 = (uint)(number16 & (~(1 << i)) | (bitIPlus15 << i));
             }
+
             Console.WriteLine("New number (Exercise 16): " + number16);
         }
     }

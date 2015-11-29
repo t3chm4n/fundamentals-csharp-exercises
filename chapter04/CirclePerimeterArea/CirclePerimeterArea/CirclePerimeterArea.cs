@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Chapter 4 - Exercise 2
+Write a program that reads from the console the radius "r" of a circle and prints its perimeter and area.
+*/
+
+using System;
 
 namespace CirclePerimeterArea
 {
@@ -21,7 +26,6 @@ namespace CirclePerimeterArea
 
             Console.WriteLine("Perimeter: " + circlePerimeter);
             Console.WriteLine("Area: " + circleArea);
-
         }
     }
 }

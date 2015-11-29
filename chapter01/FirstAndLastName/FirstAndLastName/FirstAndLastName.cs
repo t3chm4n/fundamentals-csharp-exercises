@@ -1,7 +1,6 @@
 ﻿/*
 Chapter 1 - Exercise 6
-Write a console application that prints your first and last name on the 
-console.
+Write a console application that prints your first and last name on the console.
 */
 
 using System;

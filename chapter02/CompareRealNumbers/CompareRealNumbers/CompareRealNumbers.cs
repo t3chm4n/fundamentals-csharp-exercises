@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Chapter 2 - Exercise 3
+Write a program, which compares correctly two real numbers with accuracy at least 0.000001.
+*/
+
+using System;
 
 namespace CompareRealNumbers
 {

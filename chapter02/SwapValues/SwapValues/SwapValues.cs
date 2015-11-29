@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Chapter 2 - Exercise 13
+Declare two variables of type int. Assign to them values 5 and 10 respectively. Exchange (swap) their values and print 
+them.
+*/
+using System;
 
 namespace SwapValues
 {
@@ -29,8 +34,8 @@ namespace SwapValues
 
             //not recommended
             //XOR swap
-            //if used with referenced variables (e.g. arrays), you need to test if
-            //the indexes of the array are different, or you will see a logic error
+            //if used with referenced variables (e.g. arrays), you need to test if the indexes of the array are 
+            // different, or you will see a logic error
             //n1 = n1 ^ n2;
             //n2 = n2 ^ n1;
             //n1 = n1 ^ n2;

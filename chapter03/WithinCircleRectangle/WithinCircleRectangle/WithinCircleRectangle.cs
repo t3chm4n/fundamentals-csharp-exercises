@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+Chapter 3 - Exercise 9
+Write an expression that checks for given point {x, y} if it is within the circle K({0, 0}, R=5) and out of the 
+rectangle [{-1, 1}, {5, 5}]. Clarification: for the rectangle the lower left and the upper right corners are given.
+*/
+
+using System;
 
 namespace WithinCircleRetangle
 {
@@ -41,13 +47,15 @@ namespace WithinCircleRetangle
             //-left of the right wall and
             //-beyond the upper parallel and
             //-above the bottom parallel
-            insideRectangle = coordX >= BOTTOMLEFTX && coordY >= BOTTOMLEFTY && coordX <= UPPERRIGHTX && coordY <= UPPERRIGHTY;
+            insideRectangle = coordX >= BOTTOMLEFTX && coordY >= BOTTOMLEFTY && coordX <= UPPERRIGHTX 
+                && coordY <= UPPERRIGHTY;
 
             //Using the Pithagorean Theorem (a² + b² = c²),
             //or if coordX² + coordY² <= radius² the point is within the circle area
             insideCircle = coordX * coordX + coordY * coordY <= RADIUS * RADIUS;
 
-            Console.WriteLine("The coordinate is " + ( insideCircle ? "inside" : "outside") + " the circle area and " + (insideRectangle ? "inside" : "outside") + " the rectangle area.");
+            Console.WriteLine("The coordinate is " + ( insideCircle ? "inside" : "outside") + " the circle area and " +
+                (insideRectangle ? "inside" : "outside") + " the rectangle area.");
         }
     }
 }

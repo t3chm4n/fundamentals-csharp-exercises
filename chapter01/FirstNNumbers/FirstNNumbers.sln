@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First100Numbers", "First100Numbers\First100Numbers.csproj", "{8A6CADAD-6944-4EFC-9787-373DCBFEF950}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstNNumbers", "FirstNNumbers\FirstNNumbers.csproj", "{8A6CADAD-6944-4EFC-9787-373DCBFEF950}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

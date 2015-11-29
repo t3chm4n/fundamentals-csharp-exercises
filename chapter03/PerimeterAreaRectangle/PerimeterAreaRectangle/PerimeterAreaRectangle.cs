@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+Chapter 3 - Exercise 6
+Write a program that prints on the console the perimeter and the area of a rectangle by given side and height entered 
+by the user.
+*/
+
+using System;
 
 namespace PerimeterAreaRectangle
 {

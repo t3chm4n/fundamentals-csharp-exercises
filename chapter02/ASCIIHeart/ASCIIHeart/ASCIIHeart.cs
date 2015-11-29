@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Chapter 2 - Exercise 10
+Write a program to print a figure in the shape of a heart by the sign "o".
+*/
+
+using System;
 
 namespace ASCIIHeart
 {

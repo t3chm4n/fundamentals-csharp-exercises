@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Chapter 3 - Exercise 1
+Write an expression that checks whether an integer is odd or even.
+*/
+
+using System;
 
 namespace OddOrEven
 {

@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Chapter 3 - Exercise 5
+Write an expression that calculates the area of a trapezoid by given sides a, b and height h.
+*/
+
+using System;
 
 namespace TrapezoidArea
 {

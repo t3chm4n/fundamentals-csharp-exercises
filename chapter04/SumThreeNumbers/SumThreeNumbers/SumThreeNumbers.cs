@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Chapter 4 - Exercise 1
+Write a program that reads from the console three numbers of type int and prints their sum.
+*/
+
+using System;
 
 namespace SumThreeNumbers
 {

@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Chapter 3 - Exercise 3
+Write a Boolean expression that checks whether a given integer is divisible by both 5 and 7, without a remainder.
+*/
+
+using System;
 
 namespace DivisibleBy5And7
 {
