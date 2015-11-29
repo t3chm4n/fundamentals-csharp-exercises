@@ -64,5 +64,5 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 8 - ?
 * Exerc. 9 - ?
 * Exerc. 10 - ?
-* Exerc. 11 - !
-* Exerc. 12 - !
+* Exerc. 11 - ?
+* Exerc. 12 - ?
