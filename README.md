@@ -46,12 +46,12 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 8 - WithinTheCircle
 * Exerc. 9 - WithinCircleRetangle
 * Exerc. 10 - FourDigitNumber
-* Exerc. 11 - ChangeBitValue (with 13)
+* Exerc. 11 - ChangeBitValue
 * Exerc. 12 - BitOnPositionP
-* Exerc. 13 - ChangeBitValue 
+* Exerc. 13 - ChangeBitValue (with 11) 
 * Exerc. 14 - PrimeNumber
-* Exerc. 15 - ExchangeBitValues (with 15)
-* Exerc. 16 - ExchangeBitValues
+* Exerc. 15 - ExchangeBitValues 
+* Exerc. 16 - ExchangeBitValues (with 15)
 
 ###### Chapter 4 (working)
 * Exerc. 1 - SumThreeNumbers
@@ -60,8 +60,8 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 4 - NumbersInColumns
 * Exerc. 5 - NumbersBetween
 * Exerc. 6 - PrintGreater
-* Exerc. 7 - Sum5Numbers
-* Exerc. 8 - ?
+* Exerc. 7 - FiveNumbers
+* Exerc. 8 - FiveNumbers (with 7)
 * Exerc. 9 - ?
 * Exerc. 10 - ?
 * Exerc. 11 - ?

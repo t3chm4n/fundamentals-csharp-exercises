@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum5Numbers", "Sum5Numbers\Sum5Numbers.csproj", "{E68D8714-C154-47DD-BC8F-EE30CA3B5FF3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveNumbers", "FiveNumbers\FiveNumbers.csproj", "{E68D8714-C154-47DD-BC8F-EE30CA3B5FF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
