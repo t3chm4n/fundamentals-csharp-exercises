@@ -52,7 +52,7 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 14 - PrimeNumber
 * Exerc. 15 - ExchangeBitValues (with 15)
 * Exerc. 16 - ExchangeBitValues
-* 
+
 ###### Chapter 4 (working)
 * Exerc. 1 - SumThreeNumbers
 * Exerc. 2 - CirclePerimeterArea
