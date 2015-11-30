@@ -53,7 +53,7 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 15 - ExchangeBitValues 
 * Exerc. 16 - ExchangeBitValues (with 15)
 
-###### Chapter 4 (working)
+###### Chapter 4 (complete)
 * Exerc. 1 - SumThreeNumbers
 * Exerc. 2 - CirclePerimeterArea
 * Exerc. 3 - CompanyInformation
@@ -66,3 +66,5 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 10 - AllNumbersInRange
 * Exerc. 11 - Fibonacci
 * Exerc. 12 - SumOfFractions
+
+###### Chapter 5 (reading)
