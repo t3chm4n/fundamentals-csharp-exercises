@@ -62,7 +62,7 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 6 - PrintGreater
 * Exerc. 7 - FiveNumbers
 * Exerc. 8 - FiveNumbers (with 7)
-* Exerc. 9 - ?
+* Exerc. 9 - SumNNumbers
 * Exerc. 10 - ?
 * Exerc. 11 - ?
 * Exerc. 12 - ?
