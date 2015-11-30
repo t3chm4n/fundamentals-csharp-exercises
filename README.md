@@ -65,4 +65,4 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 9 - SumNNumbers
 * Exerc. 10 - AllNumbersInRange
 * Exerc. 11 - Fibonacci
-* Exerc. 12 - ?
+* Exerc. 12 - SumOfFractions
