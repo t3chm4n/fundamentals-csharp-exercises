@@ -70,7 +70,7 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 ###### Chapter 5 (working)
 * Exerc. 1 - ExchangeValues
 * Exerc. 2 - SignRealValuesProduct
-* Exerc. 3 - ?
+* Exerc. 3 - BiggestOfThree
 * Exerc. 4 - ?
 * Exerc. 5 - ?
 * Exerc. 6 - ?
