@@ -67,4 +67,15 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 11 - Fibonacci
 * Exerc. 12 - SumOfFractions
 
-###### Chapter 5 (reading)
+###### Chapter 5 (working)
+* Exerc. 1 - ExchangeValues
+* Exerc. 2 - ?
+* Exerc. 3 - ?
+* Exerc. 4 - ?
+* Exerc. 5 - ?
+* Exerc. 6 - ?
+* Exerc. 7 - ?
+* Exerc. 8 - ?
+* Exerc. 9 - ?
+* Exerc. 10 - ?
+* Exerc. 11 - ?
