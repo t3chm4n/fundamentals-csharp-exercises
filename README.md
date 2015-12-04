@@ -73,7 +73,7 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 3 - BiggestOfThree
 * Exerc. 4 - SortThreeReals
 * Exerc. 5 - DigitWord
-* Exerc. 6 - ?
+* Exerc. 6 - QuadraticEquation
 * Exerc. 7 - ?
 * Exerc. 8 - ?
 * Exerc. 9 - ?
