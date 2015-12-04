@@ -75,7 +75,7 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 5 - DigitWord
 * Exerc. 6 - QuadraticEquation
 * Exerc. 7 - GreatestOfFive
-* Exerc. 8 - ?
+* Exerc. 8 - VariableType
 * Exerc. 9 - ?
 * Exerc. 10 - ?
 * Exerc. 11 - ?
