@@ -72,7 +72,7 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 2 - SignRealValuesProduct
 * Exerc. 3 - BiggestOfThree
 * Exerc. 4 - SortThreeReals
-* Exerc. 5 - ?
+* Exerc. 5 - DigitWord
 * Exerc. 6 - ?
 * Exerc. 7 - ?
 * Exerc. 8 - ?
