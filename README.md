@@ -77,5 +77,5 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 7 - GreatestOfFive
 * Exerc. 8 - VariableType
 * Exerc. 9 - SumSubset
-* Exerc. 10 - ?
+* Exerc. 10 - BonusPoints
 * Exerc. 11 - ?
