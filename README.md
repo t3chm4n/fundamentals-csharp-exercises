@@ -82,7 +82,7 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 
 ###### Chapter 6 (working)
 * Exerc. 1 - Number1ToN
-* Exerc. 2 - ?
+* Exerc. 2 - NotDivisibleBy3And7
 * Exerc. 3 - ?
 * Exerc. 4 - ?
 * Exerc. 5 - ?
