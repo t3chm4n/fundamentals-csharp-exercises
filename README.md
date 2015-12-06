@@ -67,7 +67,7 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 11 - Fibonacci
 * Exerc. 12 - SumOfFractions
 
-###### Chapter 5 (working)
+###### Chapter 5 (complete)
 * Exerc. 1 - ExchangeValues
 * Exerc. 2 - SignRealValuesProduct
 * Exerc. 3 - BiggestOfThree
@@ -78,4 +78,6 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 8 - VariableType
 * Exerc. 9 - SumSubset
 * Exerc. 10 - BonusPoints
-* Exerc. 11 - ?
+* Exerc. 11 - NumberIntoWords
+
+###### Chapter 6 (reading)
