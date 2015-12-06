@@ -80,4 +80,22 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 10 - BonusPoints
 * Exerc. 11 - NumberIntoWords
 
-###### Chapter 6 (reading)
+###### Chapter 6 (working)
+* Exerc. 1 - Number1ToN
+* Exerc. 2 - ?
+* Exerc. 3 - ?
+* Exerc. 4 - ?
+* Exerc. 5 - ?
+* Exerc. 6 - ?
+* Exerc. 7 - ?
+* Exerc. 8 - ?
+* Exerc. 9 - ?
+* Exerc. 10 - ?
+* Exerc. 11 - ?
+* Exerc. 12 - ?
+* Exerc. 13 - ?
+* Exerc. 14 - ?
+* Exerc. 15 - ?
+* Exerc. 16 - ?
+* Exerc. 17 - ?
+* Exerc. 18 - ?
