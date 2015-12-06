@@ -84,7 +84,7 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 1 - Number1ToN
 * Exerc. 2 - NotDivisibleBy3And7
 * Exerc. 3 - SmallestAndLargest
-* Exerc. 4 - ?
+* Exerc. 4 - DeckOfCards
 * Exerc. 5 - ?
 * Exerc. 6 - ?
 * Exerc. 7 - ?
