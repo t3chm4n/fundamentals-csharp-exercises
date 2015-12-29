@@ -86,7 +86,7 @@ The book is free and can be downloaded at http://www.introprogramming.info/
 * Exerc. 3 - SmallestAndLargest
 * Exerc. 4 - DeckOfCards
 * Exerc. 5 - FibonacciSum
-* Exerc. 6 - ?
+* Exerc. 6 - NFatDivKFat
 * Exerc. 7 - ?
 * Exerc. 8 - ?
 * Exerc. 9 - ?
